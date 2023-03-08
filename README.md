@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@shivraj0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shivraj0002" height="30" width="40" /></a>
+<a href="https://codepen.io/shivraj0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shivraj0002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivraj0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivraj0002" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shivraj0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivraj0002" height="30" width="40" /></a>
 <a href="https://instagram.com/shiv_0_0_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiv_0_0_2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shivrajdange2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivrajdange2710" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shivrajdange2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivrajdange2710" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivrajdange2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivrajdange2710" height="30" width="40" /></a>
 </p>
 
